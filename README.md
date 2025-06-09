@@ -2,7 +2,6 @@
 
 ## 🛠️ Requisitos
 
-- :contentReference[oaicite:7]{index=7}
 - Bibliotecas:
   ```bash
   pip install sounddevice soundfile whisper numpy
